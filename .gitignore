@@ -2,6 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
+/fibonacci_logs/
+/mersenne_logs/
 
 # C extensions
 *.so
